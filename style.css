@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(238, 201, 99);
+}
+
+h1 {
+    background-color: rgba(158, 37, 37, 0.668);
+    color: black;
+}
+
+.libr {
+    color: blueviolet;
+}
+.pbr {
+    color: rgba(158, 37, 37, 0.668);
+}
